@@ -1,0 +1,15 @@
+{
+  "name": "simpledbapp",
+  "version": "1.0.0",
+  "description": "a simple web app connecting to mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrawan Wable",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
